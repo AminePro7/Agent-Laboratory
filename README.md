@@ -4,6 +4,8 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
+> ⚠️ **Note**: This repository contains my testing and implementation of the Agent Laboratory solution. The original work and research were done by Samuel Schmidgall et al. I've tested the solution and found it working as described in their paper.
+
 > 🤖 A sophisticated laboratory for experimenting with AI agents, focusing on research paper analysis and machine learning problem-solving.
 
 ## 🌟 Features
